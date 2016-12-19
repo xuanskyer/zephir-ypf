@@ -1,0 +1,12 @@
+.DS_Store
+Runtime/*
+.idea/*
+.buildpath
+.project
+.settings/
+.settings/*
+.temp
+compile.log
+compile-errors.log
+ext/.deps
+ext/.libs
