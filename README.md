@@ -9,7 +9,7 @@ ypf
 architecture
 -------------
 
-![框架架构](https://git.oschina.net/xuanskyer/ypf/attach_files/download?i=69436&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F00%2F9C%2FPaAvDFgxKNyAXUFxAABjj8YLvvc099.png%3Ftoken%3De22f632e435c3beb3e8d447b8714dd58%26ts%3D1479616667%26attname%3DYPF框架.png)
+![框架架构](./doc/YPF-arch.png)
 Main features:
 
 你可以把任意对象注册到YPF框架的容器中。在请求生命周期内，容器内的对象保持全局单例模式。
